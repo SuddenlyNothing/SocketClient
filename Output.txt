@@ -1,0 +1,14 @@
+PS C:\Users\menbi\School\2022-2023\Spring\Info314\SocketClient> javac .\SocketClient.java
+PS C:\Users\menbi\School\2022-2023\Spring\Info314\SocketClient> java .\SocketClient.java time.nist.gov 13
+
+60045 23-04-11 05:13:07 50 0 0 627.1 UTC(NIST) *
+
+PS C:\Users\menbi\School\2022-2023\Spring\Info314\SocketClient> java .\SocketClient.java djxmmx.net 17
+"Three tenths of a second, Webber, for the tie, NO GOOD!
+ And the Minnesota Timberwolves are going to the Western Conference Finals..."
+        - 2004 NBA Playoffs (Sacramento Kings v. Minnesota Timberwolves)
+PS C:\Users\menbi\School\2022-2023\Spring\Info314\SocketClient> java .\SocketClient.java tcpbin.com 4242 one two three
+one
+two
+three
+PS C:\Users\menbi\School\2022-2023\Spring\Info314\SocketClient>
